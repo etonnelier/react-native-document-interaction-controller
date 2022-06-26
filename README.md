@@ -1,4 +1,4 @@
-#React Native Document Interaction Controller
+# React Native Document Interaction Controller
 
 This package calls UIDocumentInteractionController for IOS to preview document.
 
