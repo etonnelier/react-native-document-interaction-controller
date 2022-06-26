@@ -10,7 +10,7 @@ None of both projects above worked, so I did a mix of both that actually works w
 
 ### Installation:
 
-`npm i react-native-document-interaction-controller --save`
+`npm i git+https://github.com/etonnelier/react-native-document-interaction-controller.git --save`
 
 ### Usage
 
