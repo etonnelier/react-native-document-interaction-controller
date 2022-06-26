@@ -1,6 +1,6 @@
 {
   "name": "react-native-document-interaction-controller",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "React Native NativeModules wrapper for UIDocumentInteractionController on iOS",
   "main": "index.js",
   "scripts": {
