@@ -3,7 +3,7 @@
 This package calls UIDocumentInteractionController for IOS to preview document.
 
 This version is a merge of :
-https://github.com/twksos/react-native-document-interaction-controller
+https://github.com/twksos/react-native-document-interaction-controller and
 https://github.com/wix-incubator/react-native-document-interaction-controller
 
 None of both projects above worked, so I did a mix of both that actually works with react-native v0.64.2
